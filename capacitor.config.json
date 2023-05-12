@@ -1,0 +1,6 @@
+{
+  "appId": "com.fsdev.fileredirect",
+  "appName": "file-redirect",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
